@@ -1,0 +1,18 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "description": "Next.js is a React framework for building full-stack and fast web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
